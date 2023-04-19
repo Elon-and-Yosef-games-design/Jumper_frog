@@ -4,7 +4,7 @@ Task 4A: https://elonnyosef.itch.io/task4aa
 
 I've been created change of delay of 0.5s for laser shooter, and also add original change: red button that player can take and it wiil enter him to slo-motion mode of the game.
 
-Task 4B: 
+Task 4B: Video of the game: https://youtu.be/dmFqyQbe_B8
 
 I created a simple game inspired by the classic game "Frogger." The main objective of the game is for the player-controlled frog to cross the road without being hit by cars. The game consists of several components, including the frog, cars, and the road with multiple tracks.
 
